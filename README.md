@@ -1,9 +1,9 @@
 ### Olá, meu nome é Matheus Feitosa Silva 👋
 
 
-- 🔭 Atualmente trabalho em atendimento ao cliente.
+- 🔭 Estagiário na imóvel guide.
 - 🌱 Atualmente estou aprendendo tecnologias frontend.
-- ⚡ Estou em busca de estágio.
+- ⚡ Foco.
 
 <div>
   <a href="https://github.com/MFTECH-code">
