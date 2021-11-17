@@ -1,7 +1,7 @@
 ### Olá, meu nome é Matheus Feitosa Silva 👋
 
 
-- 🔭 Estagiário na imóvel guide.
+- 🔭 2022
 - 🌱 Atualmente estou aprendendo tecnologias frontend.
 - ⚡ Foco.
 
