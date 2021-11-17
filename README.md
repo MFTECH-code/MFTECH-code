@@ -2,8 +2,10 @@
 
 
 - 🔭 2022
-- 🌱 Atualmente estou aprendendo tecnologias frontend.
+- 🌱 Estudando POO.
 - ⚡ Foco.
+
+Java hoje, Java amanha, Java sempre!
 
 <div>
   <a href="https://github.com/MFTECH-code">
