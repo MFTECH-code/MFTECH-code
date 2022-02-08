@@ -1,11 +1,8 @@
-### Olá, meu nome é Matheus Feitosa Silva 👋
+### Hello, my name is Matheus Feitosa Silva 👋
 
-
-- 🔭 2022
-- 🌱 Estudando POO.
-- ⚡ Foco.
-
-Java hoje, Java amanha, Java sempre!
+- 🔭 Super Developer
+- 🌱 Studying OOP.
+- ⚡ Intern IT developer at BTG pactual.
 
 <div>
   <a href="https://github.com/MFTECH-code">
