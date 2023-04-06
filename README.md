@@ -1,8 +1,8 @@
 ### Hello, my name is Matheus Feitosa Silva 👋
 
 - 🔭 Super Developer
-- 🌱 Studying OOP.
-- ⚡ Intern IT developer at BTG pactual.
+- 🌱 Working with dotnet.
+- ⚡ IT Analyst developer at BTG pactual.
 
 <div>
   <a href="https://github.com/MFTECH-code">
